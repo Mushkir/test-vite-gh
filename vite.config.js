@@ -1,5 +1,5 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-  base: "/cng-calculatortest-vite-gh/"
+  base: "/test-vite-gh/"
 })
